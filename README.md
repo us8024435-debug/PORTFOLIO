@@ -1,7 +1,5 @@
 # 🚀 Ujjwal Sharma | Digital Experience Engine
 
-> **Pro-Tip**: Make sure to add a "**Gallery**" or "**Preview**" section directly below this header with a GIF or a high-res screenshot of your 3D Hero section. In a portfolio, the visual "wow" factor should be the first thing people see after the title!
-
 **🌍 Live Preview:** [https://ujjwal-sharma-dev.netlify.app/](https://ujjwal-sharma-dev.netlify.app/)
 
 [![React](https://img.shields.io/badge/React-19-00D8FF?logo=react&logoColor=white&style=for-the-badge)](https://react.dev)
